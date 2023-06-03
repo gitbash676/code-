@@ -1,0 +1,19 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+    int a=4,b=8;
+    cout<<"operators in c++:\n";
+    cout<<"Following are the types of operators in C++\n";
+    //Arithmetic operators
+    cout<<"The value of a+b is \n"<<a+b;
+    
+    cout<<"The value of a-b is\n "<<a-b;
+    cout<<"The value of a*b is \n"<<a*b;
+    cout<<"The value of a/b is \n"<<a/b;
+    cout<<"The value of a%b is \n"<<a%b;
+    cout<<"The value of a++ is\n "<<a++;
+    cout<<"The value of a--is \n"<<a--;
+    cout<<"The value of ++a is\n "<<a+b;
+    cout<<"The value of --a is\n "<<a+b;
+    return 0;
